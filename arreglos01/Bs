@@ -1,0 +1,13 @@
+    char nombre1[20];
+    char nombre2[20];
+        printf("escriba nombre de alumno 1\n");
+
+        scanf("%s",nombre1);
+
+        printf("escriba nombre de alumno 2\n");
+
+        scanf("%s",nombre2);
+
+            printf("%s", nombre1);
+
+            printf("%s", nombre2);
