@@ -1,0 +1,21 @@
+
+
+int main()
+
+{
+    valor
+    int arreglo1[]={1,2,3,4,5,6};
+    int arreglo2[6];
+    int n=6;
+    mostar(arreglo1);
+    filtrar (arreglo1,arreglo2,6);
+    mostrar(arreglo2);
+
+                FILE *f;
+                f = fopen("resultado.txt","w");
+                fprintf(f,"%d ", valor);
+                fclose(f);
+
+
+    return 0;
+}
